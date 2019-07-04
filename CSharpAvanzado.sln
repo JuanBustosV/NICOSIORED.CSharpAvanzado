@@ -67,6 +67,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosExtension03", "Metod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Punteros", "Punteros\Punteros.csproj", "{15C81C72-FD4E-4B3A-A0CD-50EB82D5B54C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 Interfaces", "05 Interfaces", "{65242FCE-6E74-43AE-BA56-F621EA6F3F39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces01", "Interfaces01\Interfaces01.csproj", "{449EABB7-1D1A-4A99-95B0-EF9771038BDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -185,6 +189,10 @@ Global
 		{15C81C72-FD4E-4B3A-A0CD-50EB82D5B54C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15C81C72-FD4E-4B3A-A0CD-50EB82D5B54C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15C81C72-FD4E-4B3A-A0CD-50EB82D5B54C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{449EABB7-1D1A-4A99-95B0-EF9771038BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{449EABB7-1D1A-4A99-95B0-EF9771038BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{449EABB7-1D1A-4A99-95B0-EF9771038BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{449EABB7-1D1A-4A99-95B0-EF9771038BDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -218,6 +226,7 @@ Global
 		{0BBE377F-1F25-4526-B110-E07484573FA4} = {5852D92A-1777-4468-91A6-754D328554AD}
 		{5B3E4CB2-A718-4C83-99D6-F7A6300BEFC2} = {5852D92A-1777-4468-91A6-754D328554AD}
 		{15C81C72-FD4E-4B3A-A0CD-50EB82D5B54C} = {5852D92A-1777-4468-91A6-754D328554AD}
+		{449EABB7-1D1A-4A99-95B0-EF9771038BDD} = {65242FCE-6E74-43AE-BA56-F621EA6F3F39}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {563468E9-50F4-4B6A-9F08-DDDC3CE1E5E7}
