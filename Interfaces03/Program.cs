@@ -11,6 +11,8 @@ namespace Interfaces03
         static void Main(string[] args)
         {
             Console.Title = "Tutorial C# nivel Avanzado 29 --- Implementación explicita y jerarquía";
+
+            Console.ReadKey();
         }
     }
 }
