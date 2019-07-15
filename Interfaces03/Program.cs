@@ -12,6 +12,7 @@ namespace Interfaces03
         {
             Console.Title = "Tutorial C# nivel Avanzado 29 --- Implementación explicita y jerarquía";
 
+            Console.WriteLine("Presione cualquier tecla para terminar...");
             Console.ReadKey();
         }
     }
